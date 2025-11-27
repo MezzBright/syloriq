@@ -1,0 +1,22 @@
+{
+  "name": "syloriq-website",
+  "version": "1.0.0",
+  "description": "Modern, professional brand website for Syloriq Ltd.",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve . -p 3000",
+    "build": "echo 'Build complete'",
+    "preview": "npx serve . -p 4173"
+  },
+  "keywords": [
+    "website",
+    "business",
+    "professional",
+    "syloriq"
+  ],
+  "author": "Syloriq Ltd.",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.1"
+  }
+}
